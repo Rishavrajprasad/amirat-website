@@ -185,8 +185,8 @@ export default function Refund() {
                         •
                       </span>
                       <span className="ml-2">
-                        If you're dissatisfied with the service quality, please
-                        contact us within 24 hours.
+                        If you&apos;re dissatisfied with the service quality,
+                        please contact us within 24 hours.
                       </span>
                     </li>
                     <li className="flex items-start">

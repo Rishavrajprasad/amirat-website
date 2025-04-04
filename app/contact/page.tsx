@@ -14,7 +14,8 @@ export default function Contact() {
               </h2>
               <div className="mt-3">
                 <p className="text-lg text-gray-500">
-                  Have questions about our services? We'd love to hear from you.
+                  Have questions about our services? We&apos;d love to hear from
+                  you.
                 </p>
               </div>
               <div className="mt-9">
